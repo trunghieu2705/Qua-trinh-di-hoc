@@ -3,6 +3,9 @@
 ## Giới Thiệu
 Đi học ở huflit là một dự án về trải nghiệm thực tế ở môi trường đại học, tạo ra để giúp các học sinh chập chững bước vào môi trường mới hơn. Dự án này được phát triển dưới sự hướng dẫn của Mỹ Tâm trong khung giờ học tại trường ngoại ngữ - tin học tp hcm
 
+![Uploading image.png…]()
+
+
 ## Quá trình đi học ở đại học thường bao gồm các hoạt động như:
 - Tham gia vào các lớp học và buổi giảng, nắm vững kiến thức chuyên ngành.
 - Tiến hành nghiên cứu, viết luận văn hoặc tham gia vào các dự án nghiên cứu.
